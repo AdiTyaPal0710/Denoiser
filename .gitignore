@@ -1,0 +1,5 @@
+sound_datasets
+myenv
+audio_features.csv
+trained_cnn_model.h5
+.~lock.audio_features.csv#
